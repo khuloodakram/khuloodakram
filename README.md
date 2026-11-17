@@ -8,7 +8,9 @@
 
 **Deep Learning • Computer Vision • Artificial Intelligence**
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:4834A8,100:141E30&height=3&section=header" width="85%" />
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:4834A8,100:141E30&height=3" width="65%" />
+
 
 <br/>
 
