@@ -83,30 +83,42 @@ building intelligent solutions to real-world problems.
 
 ---
 
+
 ## 📊 GitHub Activity
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=khuloodakram&show_icons=true&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=khuloodakram&show_icons=true&theme=tokyonight&hide_border=true" height="165" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=khuloodakram&layout=compact&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khuloodakram&layout=compact&theme=tokyonight&hide_border=true" height="165" />
 
 </div>
 
 ---
 
+
+---
+
+
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
+<div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuloodakram)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-4834A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khulood-akram-1512093a3)
+
+[![GitHub](https://img.shields.io/badge/GitHub-4834A8?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuloodakram)
+
+[![Email](https://img.shields.io/badge/Email-4834A8?style=for-the-badge&logo=gmail&logoColor=white)](mailto:khuloodakram086@gmail.com)
+
+</div>
 
 ---
 
 <div align="center">
 
-### "Learning, Building, and Innovating with AI."
+*Learning • Building • Innovating with AI*
 
-Thanks for visiting my profile! 💜
+</div>
+
 
 </div>
