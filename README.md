@@ -38,35 +38,48 @@ building intelligent solutions to real-world problems.
 
 ## 🛠️ Tech Stack
 
+<div align="center">
+
 ### Programming Languages
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Python](https://img.shields.io/badge/Python-4834A8?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-4834A8?style=for-the-badge&logo=cplusplus&logoColor=white)
 
 ### AI & Deep Learning
 
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-4834A8?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-4834A8?style=for-the-badge&logo=tensorflow&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OpenCV-4834A8?style=for-the-badge&logo=opencv&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-4834A8?style=for-the-badge&logo=scikitlearn&logoColor=white)
 
 ### Development Tools
 
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Colab](https://img.shields.io/badge/Google_Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Git](https://img.shields.io/badge/Git-4834A8?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/VS_Code-4834A8?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google_Colab-4834A8?style=for-the-badge&logo=googlecolab&logoColor=white)
+
+</div>
 
 ---
 
+
+---
+
+
 ## 🚀 Featured Projects
 
-### RestoreAI
+<div align="center">
 
-An AI-related Python project.
+| Project | Description | Repository |
+|:---:|:---|:---:|
+| **RestoreAI** | AI-related Python project | [View Project](https://github.com/khuloodakram/RestoreAI) |
 
-[Explore Repository](https://github.com/khuloodakram/RestoreAI)
+*More projects will be featured as they are completed.*
 
-*More projects and documentation coming soon.*
+</div>
+
+---
+
 
 ---
 
