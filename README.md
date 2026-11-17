@@ -1,15 +1,21 @@
 
+
 <div align="center">
 
 # Hi, I'm Khulood Al-Anesi 👋
 
-### AI Engineering Student | Python Developer
+### 💜 AI Engineering Student | Python Developer
 
-*Exploring Artificial Intelligence, Deep Learning & Computer Vision*
+**Deep Learning • Computer Vision • Artificial Intelligence**
 
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/khuloodakram)
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:141E30,50:4834A8,100:141E30&height=3&section=header" width="85%" />
+
+<br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=khuloodakram&color=7957d5&style=flat-square&label=Profile+Views)
 
 </div>
+
 
 ---
 
